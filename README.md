@@ -1,4 +1,4 @@
-## BSL-Tools: ROG ALLYEdition
+## BSL-Tools: ROG ALLY Edition
 
 DISCLAIMER: The application could trigger a BAN for Anti-Cheat games - If you want to play these kind of games and use this software, here are some guidelines:
 
